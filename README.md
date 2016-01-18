@@ -1,6 +1,6 @@
 # whatscooking
 
-This is my first kaggle challenge. My submission was in the top 30%. It ranked 329th out of 1388 teams. More information about the challenge, it's requirements and data can be found at https://www.kaggle.com/c/whats-cooking
+This is my first kaggle challenge. My submission was in the top 25%. It ranked 329th out of 1388 teams. More information about the challenge, it's requirements and data can be found at https://www.kaggle.com/c/whats-cooking
 
 While tackling this challenge, I tried to apply many of the things that I have learnt or re-learnt recently by taking the two online machine learning classes. It was quite fun and easy to be able to use many of the python based data analytic tools that I started using while I was still at Teza. 
 
